@@ -3,6 +3,7 @@
 ![alt text](./images/image.png)
 ![alt text](./images/pp.png)
 ![alt text](./images/image2.jpeg)
+![alt text](./images/image2.jpeg)
 [inner md](./inner/lol.md)
 
 ```mermaid
