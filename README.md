@@ -1,6 +1,7 @@
 # Hello world
 
 ![alt text](./images/image.png)
+![alt text](./images/pp.png)
 [inner md](./inner/lol.md)
 
 ```mermaid
