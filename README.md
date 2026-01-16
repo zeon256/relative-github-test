@@ -1,7 +1,6 @@
 # Hello world!!!
 
 ![alt text](./images/image.png)
-![alt text](./images/pp.png)
 ![alt text](./images/image2.jpeg)
 ![alt text](./images/syllabus.png)
 ![alt text](./images/48nhaa.png)
