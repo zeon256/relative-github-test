@@ -2,7 +2,6 @@
 
 ![alt text](./images/image.png)
 ![alt text](./images/image2.jpeg)
-![alt text](./images/syllabus.png)
 ![alt text](./images/doge.png)
 [inner md](./inner/lol.md)
 
