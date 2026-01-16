@@ -14,6 +14,3 @@ graph TD
 ```
 
 JOJOASJD ASJLDKJALSKJKD
-
-![alt text](./images/image_2026-01-16_19-42-19.png)
-![alt text](./images/lol.png)
